@@ -33,4 +33,17 @@ It was finished before Tuesday so we got to get some feedback on it and we all h
    
 ## Sprint 4:
 
-The fourth sprint
+The fourth sprint 
+
+
+# Technical Profieciency
+
+## Sprint 1
+
+The first sprint there was nothing really challenging, it was just basic html stuff that we had already done the previous year.
+I knew i wanted to show all the information in a table of some sort, so I tried a few different designs such as:
+- All in one table
+- 2 people in 2 tables
+- Using Div tags
+We originally had Jamie when I designed it so there was always a lone person at the bottom (above designs are excluding Jamie)
+<img src = "images/team.png" alt = "" >
