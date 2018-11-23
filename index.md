@@ -47,3 +47,11 @@ I knew i wanted to show all the information in a table of some sort, so I tried 
 - Using Div tags
 We originally had Jamie when I designed it so there was always a lone person at the bottom (above designs are excluding Jamie)
 <img src = "images/team.png" alt = "" >
+I didn't have the avatars or the little bit about ourselves at the time, they were added in later after more feedback from the clients saying they would like it to look less like a robot built it and they were some of thier suggestions.
+
+## Sprint 2
+
+The second sprint was when I did the Semester Countdown. This was technically challenging as I had to re-learn and use Javascript for it. I searched around on google looking at what other people had done for timers/clocks and a lot of them were quite complex. I found one that wasn't as complex and had to modify it to make it work for our purpose. This included having to use a date instead of time and implement a way of checking what semester it was in.
+<img src = "images/countdown.png" alt = "" >
+As it turns out, I didn't do it properly as it is a day ahead of what it should be. None of us actually checked to make sure it was right, probably because it seemed right at the time. Next time i do something like this I will make sure to check it's correct.
+
