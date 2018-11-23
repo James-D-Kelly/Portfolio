@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+#Portfolio - James Kelly
 
-You can use the [editor on GitHub](https://github.com/James-D-Kelly/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#Professional Proficiency
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Sprint 1:
+    
+For the first sprint we started off by gathering together and assigning tickets to each other. 
+For my ticket I was setting up the team details page (about us). 
+I started by getting everyone to add a comment on the ticket with their contact information, so I could add it to the page. 
+While we did communicate by asking each other and the client questions and giving each other advice, we could have done it better by asking more specific questions to the client and getting a really good idea about what they wanted and meeting up outside of class. 
+During this sprint we lost a team member, he hadn’t finished his ticket yet so one of us had to pick it up, luckily there wasn’t much to do so it was fairly easy.  
+We knew we would need to communicate more, and sprints would be more difficult as we would still be doing the same amount of work but between four of us instead. 
+I ended up finishing my ticket on the due date, which was not good time management, but I did learn from it and made sure it didn’t happen again.
 
-### Markdown
+##Sprint 2:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the second sprint I was doing the Semester Countdown, this involved me asking the clients questions like “what would you like to see (days, hours, minutes, seconds)”. 
+I was finished by Wednesday this sprint and got feedback for it the day after when we had our sprint review, time management had improved from last sprint. 
+The clients said they would rather have it smaller and to the side. 
+This was also the sprint for adding CSS and formatting the website nicely, so we were all working together with James as he was the one formatting everything. 
+We made sure to add div tags and classes, so it was easier for him to make it look pretty. 
+While James was making look nice, I gave my opinion on what I thought looked good and made sure to remind him to ask the clients what colour scheme they wanted and if what had done already looked good.
 
-```markdown
-Syntax highlighted code block
+##Sprint 3:
 
-# Header 1
-## Header 2
-### Header 3
+The third sprint was when Laravel was introduced to us.
+We spent a lot of time learning it and teaching each other. 
+By the end of the sprint we had to of been able to add new semesters. 
+There was both good and bad communication this sprint. 
+The good communication was when we were learning it and helping each other out and asking questions to each other. 
+The bad was that Mitch had already started and mostly finished the add semester ticket before most of us had fully learnt Laravel and he didn’t explain what he did or how he did it. 
+It was finished before Tuesday so we got to get some feedback on it and we all had most of the basics of Laravel learnt by Thursday. 
+   
+##Sprint 4:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/James-D-Kelly/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The fourth sprint
