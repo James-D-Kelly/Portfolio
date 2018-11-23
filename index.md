@@ -45,6 +45,7 @@ I knew i wanted to show all the information in a table of some sort, so I tried 
 - All in one table
 - 2 people in 2 tables
 - Using Div tags
+
 We originally had Jamie when I designed it so there was always a lone person at the bottom (above designs are excluding Jamie)
 <img src = "images/team.png" alt = "About Us" >
 I didn't have the avatars or the little bit about ourselves at the time, they were added in later after more feedback from the clients saying they would like it to look less like a robot built it and they were some of thier suggestions.
