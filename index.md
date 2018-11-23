@@ -1,8 +1,8 @@
-#Portfolio - James Kelly
+# Portfolio - James Kelly
 
-#Professional Proficiency
+# Professional Proficiency
 
-##Sprint 1:
+## Sprint 1:
     
 For the first sprint we started off by gathering together and assigning tickets to each other. 
 For my ticket I was setting up the team details page (about us). 
@@ -12,7 +12,7 @@ During this sprint we lost a team member, he hadn’t finished his ticket yet so
 We knew we would need to communicate more, and sprints would be more difficult as we would still be doing the same amount of work but between four of us instead. 
 I ended up finishing my ticket on the due date, which was not good time management, but I did learn from it and made sure it didn’t happen again.
 
-##Sprint 2:
+## Sprint 2:
 
 In the second sprint I was doing the Semester Countdown, this involved me asking the clients questions like “what would you like to see (days, hours, minutes, seconds)”. 
 I was finished by Wednesday this sprint and got feedback for it the day after when we had our sprint review, time management had improved from last sprint. 
@@ -21,7 +21,7 @@ This was also the sprint for adding CSS and formatting the website nicely, so we
 We made sure to add div tags and classes, so it was easier for him to make it look pretty. 
 While James was making look nice, I gave my opinion on what I thought looked good and made sure to remind him to ask the clients what colour scheme they wanted and if what had done already looked good.
 
-##Sprint 3:
+## Sprint 3:
 
 The third sprint was when Laravel was introduced to us.
 We spent a lot of time learning it and teaching each other. 
@@ -31,6 +31,6 @@ The good communication was when we were learning it and helping each other out a
 The bad was that Mitch had already started and mostly finished the add semester ticket before most of us had fully learnt Laravel and he didn’t explain what he did or how he did it. 
 It was finished before Tuesday so we got to get some feedback on it and we all had most of the basics of Laravel learnt by Thursday. 
    
-##Sprint 4:
+## Sprint 4:
 
 The fourth sprint
