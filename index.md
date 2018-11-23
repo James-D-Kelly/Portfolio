@@ -29,6 +29,10 @@ The fourth sprint was when we all implement what we had learnt from the previous
 
 This was a shorter sprint as some people were away for the mid-semester break and we were ahead of schedule for finishing everything by end of semester. It was a cleanup / add little things sprint, there was a lack of communication again but this time it was because people were away overseas or out of the city. Still, everything was finished on time again, even the few bugs we had. 
 
+## Sprint 6
+
+This sprint was making everything we did in sprint 4 show up on a page. 
+
 # Technical Profieciency
 
 ## Sprint 1
@@ -57,7 +61,7 @@ The Third Sprint was Laravel. For me, this was quite challenging as I don't lear
 ## Sprint 4
 
 This was a big sprint for us as we each had set up pages to be able to add and edit things in the database. For me this was assignments. For this I had to learn how to create, read, update and delete data in the database. I reused some of Mitch's code as he had already done his and they were similar, I had to change some things to make it work for my page. It worked locally but when we tried to put it live it didn't work, this is because I forgot to put a URL part before a link or two, so it was an easy fix.
-<img src = "images/assignments.png" alt = "Add page" >
+<img src = "images/add.png" alt = "Add page" >
 <img src = "images/edit.png" alt = "edit page" >
 
 ## Sprint 5 
@@ -66,4 +70,5 @@ There wasn't really anything too technical in this sprint due to it being shorte
 
 ## Sprint 6
 
-
+For this sprint I had to make the Assignments page just show the assignments by default, and have a button to take the user to the add page where they can add/edit/delete assignments. This was the same as what everyone else in the sprint so we could reuse other each others code again which made it a fairly simple sprint.
+<img src = "images/assignments.png" alt = "Add page" >
